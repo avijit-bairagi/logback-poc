@@ -1,0 +1,5 @@
+spring.application.name: logz
+spring.profiles.active: dev
+logging:
+  file:
+    path: logs
